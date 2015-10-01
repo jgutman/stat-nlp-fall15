@@ -1,6 +1,0 @@
----
-name:
-   first: Jacqueline
-   last: Gutman
-email: jacqueline.gutman@nyu.edu
-leaderboard: jgutman
